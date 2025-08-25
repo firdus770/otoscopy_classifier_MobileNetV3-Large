@@ -1,10 +1,10 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 
-streamlit==1.35.0
-torch==2.1.2+cpu
-torchvision==0.16.2+cpu
+streamlit==1.32.2
+torch==1.13.1+cpu
+torchvision==0.14.1+cpu
 pytorch-grad-cam==1.5.0
 pillow==10.3.0
-matplotlib==3.8.4
+matplotlib==3.7.3
 opencv-python-headless==4.10.0.84
-numpy==1.26.4
+numpy==1.23.5
