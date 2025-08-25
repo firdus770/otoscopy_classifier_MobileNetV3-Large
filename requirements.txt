@@ -1,7 +1,8 @@
 streamlit
 torch
 torchvision
-torchcam==0.4.0
 pillow
 numpy
-matplotlib
+pandas
+grad-cam
+opencv-python-headless
