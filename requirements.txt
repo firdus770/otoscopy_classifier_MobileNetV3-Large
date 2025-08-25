@@ -1,6 +1,8 @@
-streamlit
-torch
-torchvision
-pytorch-grad-cam
-pillow
-matplotlib
+streamlit==1.35.0
+torch==2.2.2
+torchvision==0.17.2
+pytorch-grad-cam==1.5.0
+pillow==10.3.0
+matplotlib==3.8.4
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
