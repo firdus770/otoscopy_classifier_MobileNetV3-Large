@@ -1,6 +1,7 @@
 streamlit
 torch
 torchvision
+torchcam
 pillow
 numpy
 pandas
