@@ -13,7 +13,7 @@ MEAN = [0.485, 0.456, 0.406]
 STD  = [0.229, 0.224, 0.225]
 
 # Put your classes in EXACT order from training
-CLASSES = ["Acute Otitis Media", "Cerumen", "Normal", "OME"]
+CLASSES = ["Normal","AOM","Otitis externa","Cerumen","Perforation"]
 
 # If best.pt is in the same folder as app.py, keep this:
 BEST_WEIGHTS = "best.pt"
